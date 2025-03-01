@@ -1,1 +1,1 @@
-# net_sql_project
+# NETFLIX DATASET ANALYSIS USING SQL
